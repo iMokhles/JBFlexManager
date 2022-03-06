@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = JBFlexManager;
+	cell = PSLinkCell;
+	detail = JBFlexManagerListController;
+	icon = JBFlexManager.png;
+	isController = 1;
+	label = JBFlexManager;
+    };
+}

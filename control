@@ -1,0 +1,9 @@
+Package: com.imokhles.jbflexmanager
+Name: JBFlexManager
+Depends: mobilesubstrate, firmware (>= 7.0), applist, com.a3tweaks.flipswitch
+Version: 2.0
+Architecture: iphoneos-arm
+Description: FLEX debugging tools for Jailbroken devices
+Author: iMokhles <mokhleshussien@aol.com>
+Section: Tweaks
+Depiction: http://apt.imokhles.com/depictions/?p=com.imokhles.jbflexmanager
